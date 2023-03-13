@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&show_icons=true&count_private=true)   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509)](https://github.com/jainambarbhaya1509/github-readme-stats)    
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&layout=compact&theme=dark)      
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509)](https://github.com/jainambarbhaya1509/github-readme-stats)    
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jainambarbhaya1509)](https://github.com/jainambarbhaya1509/github-readme-stats)  
 
 ## 🏆 GitHub Trophies   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)   
