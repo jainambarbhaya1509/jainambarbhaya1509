@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats   
 ![Stats](https://github-stats-alpha.vercel.app/api?theme=dark&username=jainambarbhaya1509)   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509"/>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&size_weight=0.5&count_weight=0.5)](https://github.com/jainambarbhaya1509/github-readme-stats) 
 
 ## 🏆 GitHub Trophies   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)   
