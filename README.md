@@ -9,9 +9,10 @@
 - ⚡ Fun fact: YOLO
 
 
-## 📊 GitHub Stats   
-![Stats](https://github-stats-alpha.vercel.app/api?theme=dark&username=jainambarbhaya1509)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&size_weight=0.5&count_weight=0.5)](https://github.com/jainambarbhaya1509/github-readme-stats)    
+## 📊 GitHub Stats    
+![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
 ## 🏆 GitHub Trophies   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)   
