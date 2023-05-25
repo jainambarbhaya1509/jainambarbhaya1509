@@ -25,7 +25,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)     
+
+## 🌐 Connect?   
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_jainambarbhaya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jainam-barbhaya-846973266)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jainambarbhaya1509@gmail.com)     
 
 ## 📊 GitHub Stats    
 ![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)<br/>
