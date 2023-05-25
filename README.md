@@ -1,11 +1,10 @@
 ### Hey, I'm Jainam 👋
 
 - 🔭 I’m currently working on building my skills
-- 🌱 I’m currently learning Android and Full Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with contributing to open-source repositories
 - 💬 Ask me about something
-- 📫 How to reach me: LinkedIn, Instagram
 - ⚡ Fun fact: YOLO
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -30,7 +29,7 @@
 ## 🌐 Connect?   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_jainambarbhaya)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-barbhaya-846973266)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/jainambarbhaya1509)     
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainambarbhaya1509@gmail.com)     
 
 ## 📊 GitHub Stats    
 ![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)    
