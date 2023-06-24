@@ -39,10 +39,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-barbhaya-846973266)    
 
 ## 📊 GitHub Stats    
-![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 🏆 GitHub Trophies   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)   
 
-![](https://komarev.com/ghpvc/?username=jainambarbhaya1509&style=flat)
+![](https://komarev.com/ghpvc/?username=jainambarbhaya1509&style=flat)      
