@@ -1,4 +1,4 @@
-### Hey, I'm Jainam 👋
+# Hey, I'm Jainam 👋 <img align="right" src="https://github.com/jainambarbhaya1509/jainambarbhaya1509/assets/78131937/5b916a11-b0b2-4b97-bc02-6928e1672085" height="250px" width="250px"/>
 
 - 🔭 I’m currently working on building my skills
 - 🌱 I’m currently learning Full Stack Web Development
@@ -6,6 +6,8 @@
 - 🤔 I’m looking for help with contributing to open-source repositories
 - 💬 Ask me about something
 - ⚡ Fun fact: YOLO
+  
+<br><br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
