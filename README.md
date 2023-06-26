@@ -37,6 +37,7 @@
 ## 🌐 Connect?   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_jainambarbhaya)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-barbhaya-846973266)    
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/_jainambarbhaya)
 
 ## 📊 GitHub Stats    
 ![](https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=dark&hide_border=false)    
