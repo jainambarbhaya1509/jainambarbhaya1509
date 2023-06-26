@@ -48,7 +48,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&layout=compact&theme=dark&count_private=true)
 
 ## 🏆 GitHub Trophies   
-[![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509)](https://github.com/jainambarbhaya1509/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jainambarbhaya1509&include_all_commits=true&count_private=true&theme=dark)](https://github.com/jainambarbhaya1509/github-profile-trophy)
 
 
 ![](https://komarev.com/ghpvc/?username=jainambarbhaya1509&style=flat)      
