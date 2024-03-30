@@ -40,4 +40,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+[![jainambarbhaya1509's GitHub | Stats](https://stats.quine.sh/jainambarbhaya1509/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jainambarbhaya1509)
+[![jainambarbhaya1509's GitHub | Dependencies](https://stats.quine.sh/jainambarbhaya1509/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jainambarbhaya1509)
+[![jainambarbhaya1509's Stack Overflow | Stats](https://stats.quine.sh/jainambarbhaya1509/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jainambarbhaya1509)
+[![jainambarbhaya1509's GitHub | Topics Over Time](https://stats.quine.sh/jainambarbhaya1509/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jainambarbhaya1509)
+[![jainambarbhaya1509's GitHub | Languages Over Time](https://stats.quine.sh/jainambarbhaya1509/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jainambarbhaya1509)
