@@ -37,4 +37,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use a personal access token if needed
+          GH_PAT: ${{ secrets.ACCESS_TOKEN }}  # Use the PAT here
+
