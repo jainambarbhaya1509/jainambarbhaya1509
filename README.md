@@ -28,11 +28,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jainambarbhaya1509/jainambarbhaya1509/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
