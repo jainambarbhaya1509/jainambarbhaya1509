@@ -23,5 +23,5 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jainambarbhaya1509&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainambarbhaya1509&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&langs_count=8&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainambarbhaya1509&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
 </div>
