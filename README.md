@@ -16,7 +16,7 @@
 <h2 align="center">⚒️ Tech I can build stuff with</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,js,html,css,flutter,nodejs,react,flask,github,aws,azure,docker,figma,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,js,html,css,flutter,nodejs,expressjs,react,flask,github,aws,azure,docker,figma,mysql,postgresql,mongodb,firebase" />
 </div>
 
 <h2 align="center">🤓 Showing off stats</h2>
