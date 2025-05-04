@@ -1,8 +1,27 @@
+<img 
+    src="https://github.com/user-attachments/assets/76ec1d76-505a-485a-8bdf-8fbee4c5373a" 
+    alt="Animated workspace"
+    style="width: 100%; height:450px ; border-radius: 10px;" 
+/>   
+
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jainam+Barbhaya;" />
 </h1>
 
+
+
+
 <h3 align="center">I am a Application Developer</h3>
+<blockquote>
+  <h3 align="center">
+   ✨ Think you've seen them all? There are more repositories hidden here than you can imagine! ✨
+  </h3>
+</blockquote>
+
+<br/>
+
 <div align="center"> 
   <a href="mailto:jainambarbhaya1509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -12,6 +31,9 @@
   </a>
 </div>
 <br/>
+
+
+
 
 <h2 align="center">⚒️ Tech I can build stuff with</h2>
 <br/>
