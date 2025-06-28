@@ -14,11 +14,9 @@
 
 
 <h3 align="center">I am a Application Developer</h3>
-<blockquote>
-  <h3 align="center">
+  <h5 align="center">
    ✨ Think you've seen them all? There are more repositories hidden here than you can imagine! ✨
-  </h3>
-</blockquote>
+  </h5>
 
 <br/>
 
@@ -38,8 +36,12 @@
 <h2 align="center">⚒️ Tech I can build stuff with</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,java,js,cs,html,css,flutter,react,nodejs,expressjs,flask,github,aws,azure,docker,figma,mysql,postgresql,mongodb,firebase,redis,unity,vercel,figma,vscode,androidstudio,postman,solidity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,java,js,html,css,flutter,react,nodejs,expressjs,flask,aws" />
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=azure,docker,figma,mysql,postgresql,mongodb,firebase,redis,solidity" />
+</div>
+
 
 <h2 align="center">🤓 Showing off stats</h2>
 <div align="center">
